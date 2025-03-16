@@ -15,6 +15,12 @@
 
 Chandler Erickson A. Cachuela  cacachuela@up.edu.ph
 
+<!-- SCREENSHOTS -->
+## Screenshots
+[Home Page - 1](https://github.com/tandercachuela/CMSC207-Project-Cachuela/blob/b2e95f46483020e5d17d6c691bd961419bd03620/screenshots/screenshot_1.png)
+
+[Home Page - 2](https://github.com/tandercachuela/CMSC207-Project-Cachuela/blob/b2e95f46483020e5d17d6c691bd961419bd03620/screenshots/screenshot_2.png)
+
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
